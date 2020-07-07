@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "9251905387",
+    "firebase_url": "https://prevodilac-2cb77.firebaseio.com",
+    "project_id": "prevodilac-2cb77",
+    "storage_bucket": "prevodilac-2cb77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9251905387:android:aa17b6b3dcae0c1929b62e",
+        "android_client_info": {
+          "package_name": "com.example.prevodilac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9251905387-ucfrmj0qu9a04rlitcu2rnikrnj4r0qo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDodd6sK21EpH_MHPM9wubmX_IFmJIiAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9251905387-ucfrmj0qu9a04rlitcu2rnikrnj4r0qo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

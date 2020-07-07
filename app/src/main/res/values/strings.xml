@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Prevodilac</string>
+    <string name="prevodi">Ceka se jezik...</string>
+    <string name="pocetni_tekst">Unesite tekst...</string>
+    <string name="prevedi">Prevedi</string>
+    <string name="engleski_jezik">Engleski jezik</string>
+</resources>
